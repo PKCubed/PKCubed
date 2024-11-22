@@ -1,4 +1,4 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PKCubed)](https://github.com/PKCubed/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PKCubed&layout=compact)
 
 ## Hello! PKCubed Here.
 I'm currently working on this project. Take a look:
