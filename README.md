@@ -1,8 +1,10 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PKCubed&layout=compact)
+
 
 ## Hello! PKCubed Here.
 I'm currently working on this project. Take a look:
-[HA Button Panel](https://github.com/PKCubed/HAButtonPanel)
+[HA Button Pad](https://github.com/PKCubed/HAButtonPad)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PKCubed&layout=compact)
 
 <!--
 **PKCubed/PKCubed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
