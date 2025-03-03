@@ -2,7 +2,7 @@
 
 ## Hello! PKCubed Here.
 I'm currently working on this project. Take a look:
-[HA Button Pad](https://github.com/PKCubed/HAButtonPad)
+[PLC](https://github.com/PKCubed/PLC)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PKCubed&layout=compact)
 
