@@ -2,7 +2,7 @@
 
 ## Hello! PKCubed Here.
 I'm currently working on this project. Take a look:
-[PLC](https://github.com/PKCubed/PLC)
+[OpenMicroCar]([https://github.com/PKCubed/PLC](https://github.com/PKCubed/OpenMicroCar))
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PKCubed&layout=compact)
 
