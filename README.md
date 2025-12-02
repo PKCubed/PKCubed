@@ -4,8 +4,6 @@
 I'm currently working on this project. Take a look:
 [OpenMicroCar](https://github.com/PKCubed/OpenMicroCar)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PKCubed&layout=compact)
-
 <!--
 **PKCubed/PKCubed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
