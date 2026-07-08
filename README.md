@@ -1,6 +1,6 @@
 # Hello! I'm Peter Kyle.
 
-**I'm a junior Electrical Engineering student at Walla Walla University based in Wenatchee, WA.** I have a multitude of hobbies, but one of my favorite things to do is just build things and I share most of my projects here.
+**I'm a Senior Electrical Engineering student at Walla Walla University based in Wenatchee, WA.** I have a multitude of hobbies, but one of my favorite things to do is just build things and I share most of my projects here.
 
 ## Current Projects
 - [Software Defined Radio](https://github.com/SomethingFourier/SDR-Receiver), a hybrid superheterodyne direct conversion quadrature software defined radio receiver supporting a wide frequency range from HF to VHF bands, 192kHz of active bandwidth, both USB and Ethernet data transfer, and Power over Ethernet.
